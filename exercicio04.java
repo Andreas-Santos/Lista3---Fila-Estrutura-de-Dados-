@@ -23,7 +23,7 @@ public class exercicio04 {
                 "1 - Incluir processo" +
                 "\n2 - Remover processo" +
                 "\n3 - Imprimir processos" +
-                "\n0 - Encerrar programa"));
+                "\n0 - Encerrar programa"));  
 
             switch (escolha) {
                 case 1:                 

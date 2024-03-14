@@ -54,7 +54,7 @@ public class Fila {
 	}
 
 	public void exibeFila(){
-	for (int i = 0; i < total; i++)
+	for (int i = inicio; i < fim; i++)
 		System.out.println("posicao " + i + " valor " + vetor[i]);
 	}
 }
